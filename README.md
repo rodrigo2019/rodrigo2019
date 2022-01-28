@@ -42,8 +42,8 @@
   <img  height="38" alingn="left" src="./public/images/postman.png" alt="Postman" />
   <img  height="38" alingn="left" src="./public/images/git.png" alt="Git" />
   <img  height="38" alingn="left" src="./public/images/github.png" alt="GitHub" />
-  <img  height="20" alingn="left" src="./public/images/azuredevops.png" alt="AWS" />
-  <img  height="20" alingn="left" src="./public/images/bitbucket.png" alt="AWS" />
+  <img  height="38" alingn="left" src="./public/images/azuredevops.png" alt="AWS" />
+  <img  height="38" alingn="left" src="./public/images/bitbucket.png" alt="AWS" />
 </p>
 
 ## Maker stuffs
