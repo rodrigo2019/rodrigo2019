@@ -8,10 +8,9 @@
 
 ## Languages
 <p>
-  <img  width="38" height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
-
-  <img  width="38" height="38" alingn="left" src="./public/images/c.png" alt="C" />
-  <img  width="38" height="38" alingn="left" src="./public/images/c++.png" alt="C++" />
+  <img  height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
+  <img  height="38" alingn="left" src="./public/images/c.png" alt="C" />
+  <img  height="38" alingn="left" src="./public/images/c++.png" alt="C++" />
 </p>
 
 ## Libraries and frameworks
@@ -24,25 +23,26 @@
 
 ## Databases
 <p>
-  <img  width="38" height="38" alingn="left" src="./public/images/sqlite.png" alt="SQL" />
-  <img  width="38" height="38" alingn="left" src="./public/images/mysql.png" alt="MySQL" />
+  <img  height="38" alingn="left" src="./public/images/sqlite.png" alt="SQL" />
+  <img  height="38" alingn="left" src="./public/images/mysql.png" alt="MySQL" />
 </p>
 
 ## Cloud
-  <img  width="38" height="20" alingn="left" src="./public/images/gcp.png" alt="GCP" />
-  <img  width="38" height="20" alingn="left" src="./public/images/azure.png" alt="Azure" />
-  <img  width="38" height="20" alingn="left" src="./public/images/AWS.png" alt="AWS" />
-
+<p>
+  <img  height="38" alingn="left" src="./public/images/gcp.png" alt="GCP" />
+  <img  height="38" alingn="left" src="./public/images/azure.png" alt="Azure" />
+  <img  height="38" alingn="left" src="./public/images/AWS.png" alt="AWS" />
+</p>
 ## Dev Tools
 <p>  
-  <img  width="38" height="38" alingn="left" src="./public/images/docker.png" alt="Docker" />
-  <img  width="38" height="38" alingn="left" src="./public/images/vscode.png" alt="VS Code" />
-  <img  width="38" height="38" alingn="left" src="./public/images/pycharm.png" alt="PyCharm" />
-  <img  width="38" height="38" alingn="left" src="./public/images/postman.png" alt="Postman" />
-  <img  width="38" height="38" alingn="left" src="./public/images/git.png" alt="Git" />
-  <img  width="38" height="38" alingn="left" src="./public/images/github.png" alt="GitHub" />
-  <img  width="38" height="20" alingn="left" src="./public/images/azuredevops.png" alt="AWS" />
-  <img  width="38" height="20" alingn="left" src="./public/images/bitbucket.png" alt="AWS" />
+  <img  height="38" alingn="left" src="./public/images/docker.png" alt="Docker" />
+  <img  height="38" alingn="left" src="./public/images/vscode.png" alt="VS Code" />
+  <img  height="38" alingn="left" src="./public/images/pycharm.png" alt="PyCharm" />
+  <img  height="38" alingn="left" src="./public/images/postman.png" alt="Postman" />
+  <img  height="38" alingn="left" src="./public/images/git.png" alt="Git" />
+  <img  height="38" alingn="left" src="./public/images/github.png" alt="GitHub" />
+  <img  height="20" alingn="left" src="./public/images/azuredevops.png" alt="AWS" />
+  <img  height="20" alingn="left" src="./public/images/bitbucket.png" alt="AWS" />
 </p>
 
 ## Maker stuffs
