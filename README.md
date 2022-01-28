@@ -16,10 +16,10 @@
 
 ## Libraries and frameworks
 <p>
-  <img  width="38" height="38" alingn="left" src="./public/images/flask.png" alt="Flask"/>
-  <img  width="38" height="38" alingn="left" src="./public/images/django.png" alt="Django"/>
-  <img  width="38" height="38" alingn="left" src="./public/images/opencv.png" alt="Opencv"/>
-  <img  width="38" height="38" alingn="left" src="./public/images/tensorflow.png" alt="Tensorflow"/>
+  <img  height="38" alingn="left" src="./public/images/flask.png" alt="Flask"/>
+  <img  height="38" alingn="left" src="./public/images/django.png" alt="Django"/>
+  <img  height="38" alingn="left" src="./public/images/opencv.png" alt="Opencv"/>
+  <img  height="38" alingn="left" src="./public/images/tensorflow.png" alt="Tensorflow"/>
 </p>
 
 ## Databases
@@ -29,11 +29,9 @@
 </p>
 
 ## Cloud
-
   <img  width="38" height="20" alingn="left" src="./public/images/gcp.png" alt="GCP" />
   <img  width="38" height="20" alingn="left" src="./public/images/azure.png" alt="Azure" />
   <img  width="38" height="20" alingn="left" src="./public/images/AWS.png" alt="AWS" />
-  
 
 ## Dev Tools
 <p>  
